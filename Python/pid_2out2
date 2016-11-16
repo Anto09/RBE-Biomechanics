@@ -1,0 +1,402 @@
+calling
+############# after simulation step: , 0 #############
+target_pos 0.0
+current_pos 0.0
+##########################
+############# PID update #############
+set point acc 0.0
+current acc 0.0
+error 0.0
+##########################
+############# Simulation update #############
+new acceleration 0.0
+new velocity 0.0
+new positions 0.0
+##########################
+############# after simulation step: , 1 #############
+target_pos 0.0
+current_pos 0.0
+##########################
+############# PID update #############
+set point acc 2e-05
+current acc 0.0
+error 2e-05
+##########################
+############# Simulation update #############
+new acceleration 1.67678177251e-06
+new velocity 0.0
+new positions 0.0
+##########################
+############# after simulation step: , 2 #############
+target_pos 0.2
+current_pos 0.0
+##########################
+############# PID update #############
+set point acc 4e-05
+current acc 1.67678177251e-06
+error 3.83232182275e-05
+##########################
+############# Simulation update #############
+new acceleration 2.54840255393e-06
+new velocity 0.000167678177251
+new positions 0.00838390886256
+##########################
+############# after simulation step: , 3 #############
+target_pos 0.6
+current_pos 0.00838390886256
+##########################
+############# PID update #############
+set point acc 0.00011
+current acc 2.54840255393e-06
+error 0.000107451597446
+##########################
+############# Simulation update #############
+new acceleration 8.5509941953e-06
+new velocity 0.000422518432644
+new positions 0.0378937393573
+##########################
+############# after simulation step: , 4 #############
+target_pos 1.7
+current_pos 0.0378937393573
+##########################
+############# PID update #############
+set point acc 7e-05
+current acc 8.5509941953e-06
+error 6.14490058047e-05
+##########################
+############# Simulation update #############
+new acceleration 3.28892246926e-06
+new velocity 0.00127761785217
+new positions 0.122900553598
+##########################
+############# after simulation step: , 5 #############
+target_pos 2.6
+current_pos 0.122900553598
+##########################
+############# PID update #############
+set point acc -1e-05
+current acc 3.28892246926e-06
+error -1.32889224693e-05
+##########################
+############# Simulation update #############
+new acceleration -6.71683477671e-07
+new velocity 0.0016065100991
+new positions 0.267106951162
+##########################
+############# after simulation step: , 6 #############
+target_pos 3.1
+current_pos 0.267106951162
+##########################
+############# PID update #############
+set point acc -2e-05
+current acc -6.71683477671e-07
+error -1.93283165223e-05
+##########################
+############# Simulation update #############
+new acceleration 6.44654585662e-07
+new velocity 0.00153934175133
+new positions 0.424399543684
+##########################
+############# after simulation step: , 7 #############
+target_pos 4.6
+current_pos 0.424399543684
+##########################
+############# PID update #############
+set point acc -0.00031
+current acc 6.44654585662e-07
+error -0.000310644654586
+##########################
+############# Simulation update #############
+new acceleration -2.22452040968e-05
+new velocity 0.0016038072099
+new positions 0.581556991745
+##########################
+############# after simulation step: , 8 #############
+target_pos 3.9
+current_pos 0.581556991745
+##########################
+############# PID update #############
+set point acc -0.00027
+current acc -2.22452040968e-05
+error -0.000247754795903
+##########################
+############# Simulation update #############
+new acceleration -1.35907392265e-05
+new velocity -0.000620713199783
+new positions 0.630711692251
+##########################
+############# after simulation step: , 9 #############
+target_pos 3.5
+current_pos 0.630711692251
+##########################
+############# PID update #############
+set point acc -0.00032
+current acc -1.35907392265e-05
+error -0.000306409260774
+##########################
+############# Simulation update #############
+new acceleration -2.21167859797e-05
+new velocity -0.00197978712243
+new positions 0.500686676141
+##########################
+############# after simulation step: , 10 #############
+target_pos 2.4
+current_pos 0.500686676141
+##########################
+############# PID update #############
+set point acc 0.00015
+current acc -2.21167859797e-05
+error 0.00017211678598
+##########################
+############# Simulation update #############
+new acceleration 1.43862565794e-05
+new velocity -0.0041914657204
+new positions 0.192124033999
+##########################
+############# after simulation step: , 11 #############
+target_pos 2.9
+current_pos 0.192124033999
+##########################
+############# PID update #############
+set point acc 0.00022
+current acc 1.43862565794e-05
+error 0.000205613743421
+##########################
+############# Simulation update #############
+new acceleration 7.44913090524e-06
+new velocity -0.00275284006246
+new positions -0.155091255144
+##########################
+############# after simulation step: , 12 #############
+target_pos 1.4
+current_pos -0.155091255144
+##########################
+############# PID update #############
+set point acc 0.00072
+current acc 7.44913090524e-06
+error 0.000712550869095
+##########################
+############# Simulation update #############
+new acceleration 4.8763797946e-05
+new velocity -0.00200792697194
+new positions -0.393129606864
+##########################
+############# after simulation step: , 13 #############
+target_pos 1.7
+current_pos -0.393129606864
+##########################
+############# PID update #############
+set point acc 0.00082
+current acc 4.8763797946e-05
+error 0.000771236202054
+##########################
+############# Simulation update #############
+new acceleration 4.57818540352e-05
+new velocity 0.00286845282267
+new positions -0.350103314328
+##########################
+############# after simulation step: , 14 #############
+target_pos 4.5
+current_pos -0.350103314328
+##########################
+############# PID update #############
+set point acc 0.00044
+current acc 4.57818540352e-05
+error 0.000394218145965
+##########################
+############# Simulation update #############
+new acceleration 2.24010041784e-05
+new velocity 0.00744663822618
+new positions 0.165651238115
+##########################
+############# after simulation step: , 15 #############
+target_pos 5.7
+current_pos 0.165651238115
+##########################
+############# PID update #############
+set point acc -0.00032
+current acc 2.24010041784e-05
+error -0.000342401004178
+##########################
+############# Simulation update #############
+new acceleration -2.17704430606e-05
+new velocity 0.00968673864402
+new positions 1.02232008163
+##########################
+############# after simulation step: , 16 #############
+target_pos 6.5
+current_pos 1.02232008163
+##########################
+############# PID update #############
+set point acc -0.00109
+current acc -2.17704430606e-05
+error -0.00106822955694
+##########################
+############# Simulation update #############
+new acceleration -6.01762804184e-05
+new velocity 0.00750969433796
+new positions 1.88214173072
+##########################
+############# after simulation step: , 17 #############
+target_pos 7.8
+current_pos 1.88214173072
+##########################
+############# PID update #############
+set point acc -0.00162
+current acc -6.01762804184e-05
+error -0.00155982371958
+##########################
+############# Simulation update #############
+new acceleration -8.53452159353e-05
+new velocity 0.00149206629612
+new positions 2.33222976243
+##########################
+############# after simulation step: , 18 #############
+target_pos 8.2
+current_pos 2.33222976243
+##########################
+############# PID update #############
+set point acc -0.00132
+current acc -8.53452159353e-05
+error -0.00123465478406
+##########################
+############# Simulation update #############
+new acceleration -6.69748354815e-05
+new velocity -0.00704245529741
+new positions 2.05471031236
+##########################
+############# after simulation step: , 19 #############
+target_pos 8.4
+current_pos 2.05471031236
+##########################
+############# PID update #############
+set point acc -0.00024
+current acc -6.69748354815e-05
+error -0.000173025164519
+##########################
+############# Simulation update #############
+new acceleration -4.43723604106e-06
+new velocity -0.0137399388456
+new positions 1.01559060522
+##########################
+############# after simulation step: , 20 #############
+target_pos 8.5
+current_pos 1.01559060522
+##########################
+############# PID update #############
+set point acc 0.00113
+current acc -4.43723604106e-06
+error 0.00113443723604
+##########################
+############# Simulation update #############
+new acceleration 7.06734793329e-05
+new velocity -0.0141836624497
+new positions -0.380589459545
+##########################
+############# after simulation step: , 21 #############
+target_pos 6.1
+current_pos -0.380589459545
+##########################
+############# PID update #############
+set point acc 0.00262
+current acc 7.06734793329e-05
+error 0.00254932652067
+##########################
+############# Simulation update #############
+new acceleration 0.000172120979619
+new velocity -0.00711631451637
+new positions -1.44558830785
+##########################
+############# after simulation step: , 22 #############
+target_pos 5.4
+current_pos -1.44558830785
+##########################
+############# PID update #############
+set point acc 0.00288
+current acc 0.000172120979619
+error 0.00270787902038
+##########################
+############# Simulation update #############
+new acceleration 0.000163646937238
+new velocity 0.0100957834455
+new positions -1.29661486139
+##########################
+############# after simulation step: , 23 #############
+target_pos 4.9
+current_pos -1.29661486139
+##########################
+############# PID update #############
+set point acc 0.00172
+current acc 0.000163646937238
+error 0.00155635306276
+##########################
+############# Simulation update #############
+new acceleration 7.77026997569e-05
+new velocity 0.0264604771693
+new positions 0.53119816935
+##########################
+############# after simulation step: , 24 #############
+target_pos 4.1
+current_pos 0.53119816935
+##########################
+############# PID update #############
+set point acc -0.00083
+current acc 7.77026997569e-05
+error -0.000907702699757
+##########################
+############# Simulation update #############
+new acceleration -6.97526270641e-05
+new velocity 0.034230747145
+new positions 3.56575938506
+##########################
+############# after simulation step: , 25 #############
+target_pos 4.0
+current_pos 3.56575938506
+##########################
+############# PID update #############
+set point acc -0.00372
+current acc -6.97526270641e-05
+error -0.00365024737294
+##########################
+############# Simulation update #############
+new acceleration -0.00023668727893
+new velocity 0.0272554844386
+new positions 6.64007096424
+##########################
+############# after simulation step: , 26 #############
+target_pos 3.8
+current_pos 6.64007096424
+##########################
+############# PID update #############
+set point acc -0.00528
+current acc -0.00023668727893
+error -0.00504331272107
+##########################
+############# Simulation update #############
+new acceleration -0.000302412618634
+new velocity 0.00358675654553
+new positions 8.18218301344
+##########################
+############# after simulation step: , 27 #############
+target_pos 5.2
+current_pos 8.18218301344
+##########################
+############# PID update #############
+set point acc -0.00455
+current acc -0.000302412618634
+error -0.00424758738137
+##########################
+############# Simulation update #############
+new acceleration -0.000272902014594
+new velocity -0.0266545053179
+new positions 7.02879557482
+##########################
+############# after simulation step: , 28 #############
+target_pos 5.6
+current_pos 7.02879557482
+##########################
+############# PID update #############
+set point acc -0.00088
+current acc -0.000272902014594
+error -0.000607097985406
+##########################

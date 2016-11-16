@@ -1,0 +1,240 @@
+calling
+target_pos 0.0
+current_pos 0.0
+error 0.0
+0.0
+0.0
+new acceleration 0.0
+new velocity 0.0
+new positions 0.0
+target_pos 0.0
+current_pos 0.0
+error 0.2
+0.2
+0.2
+new acceleration 0.6
+new velocity 0.0
+new positions 0.0
+target_pos 0.2
+current_pos 0.0
+error -0.2
+-1.11022302463e-16
+-1.11022302463e-16
+new acceleration -0.6
+new velocity 0.6
+new positions 0.3
+target_pos 0.6
+current_pos 0.3
+error 1.7
+1.7
+1.7
+new acceleration 5.3
+new velocity -2.22044604925e-16
+new positions 0.6
+target_pos 1.7
+current_pos 0.6
+error -4.6
+-2.9
+-2.9
+new acceleration -13.8
+new velocity 5.3
+new positions 3.25
+target_pos 2.6
+current_pos 3.25
+error 13.7
+10.8
+10.8
+new acceleration 42.8
+new velocity -8.5
+new positions 1.65
+target_pos 3.1
+current_pos 1.65
+error -43.0
+-32.2
+-32.2
+new acceleration -131.9
+new velocity 34.3
+new positions 14.55
+target_pos 4.6
+current_pos 14.55
+error 128.8
+96.6
+96.6
+new acceleration 397.2
+new velocity -97.6
+new positions -17.1
+target_pos 3.9
+current_pos -17.1
+error -399.9
+-303.3
+-303.3
+new acceleration -1231.9
+new velocity 299.6
+new positions 83.9
+target_pos 3.5
+current_pos 83.9
+error 1228.7
+925.4
+500
+new acceleration 3357.3
+new velocity -932.3
+new positions -232.45
+target_pos 2.4
+current_pos -232.45
+error -3355.8
+-2855.8
+-500
+new acceleration -8440.3
+new velocity 2425.0
+new positions 513.9
+target_pos 2.9
+current_pos 513.9
+error 8442.5
+7942.5
+500
+new acceleration 20740.8
+new velocity -6015.3
+new positions -1281.25
+target_pos 1.4
+current_pos -1281.25
+error -20733.6
+-20233.6
+-500
+new acceleration -50409.7
+new velocity 14725.5
+new positions 3073.85
+target_pos 1.7
+current_pos 3073.85
+error 50417.9
+49917.9
+500
+new acceleration 122069.4
+new velocity -35684.2
+new positions -7405.5
+target_pos 4.5
+current_pos -7405.5
+error -122065.0
+-121565.0
+-500
+new acceleration -295047.9
+new velocity 86385.2
+new positions 17945.0
+target_pos 5.7
+current_pos 17945.0
+error 295044.7
+294544.7
+500
+new acceleration 712654.4
+new velocity -208662.7
+new positions -43193.75
+target_pos 6.5
+current_pos -43193.75
+error -712665.3
+-712165.3
+-500
+new acceleration -1720875.3
+new velocity 503991.7
+new positions 104470.75
+target_pos 7.8
+current_pos 104470.75
+error 1720859.1
+1720359.1
+500
+new acceleration 4154883.5
+new velocity -1216883.6
+new positions -251975.2
+target_pos 8.2
+current_pos -251975.2
+error -4154896.7
+-4154396.7
+-500
+new acceleration -10031152.5
+new velocity 2937999.9
+new positions 608582.95
+target_pos 8.4
+current_pos 608582.95
+error 10031150.1
+10030650.1
+500
+new acceleration 24217696.9
+new velocity -7093152.6
+new positions -1468993.4
+target_pos 8.5
+current_pos -1468993.4
+error -24217685.6
+-24217185.6
+-500
+new acceleration -58467021.3
+new velocity 17124544.3
+new positions 3546702.45
+target_pos 6.1
+current_pos 3546702.45
+error 58467047.5
+58466547.5
+500
+new acceleration 141152280.6
+new velocity -41342477.0
+new positions -8562263.9
+target_pos 5.4
+current_pos -8562263.9
+error -141152251.8
+-141151751.8
+-500
+new acceleration -340772051.1
+new velocity 99809803.6
+new positions 20671399.4
+target_pos 4.9
+current_pos 20671399.4
+error 340772068.3
+340771568.3
+500
+new acceleration 822696888.4
+new velocity -240962247.5
+new positions -49904822.55
+target_pos 4.1
+current_pos -49904822.55
+error -822696896.7
+-822696396.7
+-500
+new acceleration -1986166361.7
+new velocity 581734640.9
+new positions 120481374.15
+target_pos 4.0
+current_pos 120481374.15
+error 1986166324.5
+1986165824.5
+500
+new acceleration 4795030045.7
+new velocity -1404431720.8
+new positions -290867165.8
+target_pos 3.8
+current_pos -290867165.8
+error -4795030098.5
+-4795029598.5
+-500
+new acceleration -11576227021.5
+new velocity 3390598324.9
+new positions 702216136.25
+target_pos 5.2
+current_pos 702216136.25
+error 11576226976.0
+11576226476.0
+500
+new acceleration 27947484550.5
+new velocity -8185628696.6
+new positions -1695299049.6
+target_pos 5.6
+current_pos -1695299049.6
+error -27947484559.3
+-27947484059.3
+-500
+new acceleration -67471196594.6
+new velocity 19761855853.9
+new positions 4092814529.05
+target_pos 5.5
+current_pos 4092814529.05
+error 67471196635.5
+67471196135.5
+500
+new acceleration 1.6288987833e+11
+new velocity -4
